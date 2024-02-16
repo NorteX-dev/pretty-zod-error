@@ -20,7 +20,9 @@
 		"url": "https://github.com/NorteX-dev/pretty-zod-error"
 	},
 	"devDependencies": {
-		"ansi-colors": "^4.1.3",
 		"zod": "^3.22.4"
+	},
+	"dependencies": {
+		"ansi-colors": "^4.1.3"
 	}
 }
